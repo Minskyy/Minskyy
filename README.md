@@ -12,7 +12,7 @@ I'm a **Computer Engineer** currently working as a **Full Stack Developer** at *
 ### Interests
 Apart from full stack development, my main interests are:
 - 🤖 **Automation**: building scripts and bots to automate repetitive tasks and explore profitable ideas
-- ⚓️ **Blockchain Technology**: Exploring and creating decentralized applications and smart contracts
+- ⛓️ **Blockchain Technology**: Exploring and creating decentralized applications and smart contracts
 - 🎮 **Game Development**: Making my weird game ideas come to life 
 
 ### Skills & Tools
