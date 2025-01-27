@@ -1,7 +1,5 @@
 # Hi there 👋
 
-## Welcome to my Lab
-
 I'm a **Computer Engineer** currently working as a **Full Stack Developer** at **Kuehne + Nagel**. Passionate about creating impactful solutions, I specialize in web development while exploring cutting-edge technologies.
 
 ### About Me
@@ -18,10 +16,6 @@ Apart from full stack development, my main interests are:
 ### Skills & Tools
 Here are some of the technologies I work with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?logo=blockchaindotcom&logoColor=white&style=flat)
-
-### Current Focus
-- 🚀 Developing decentralized applications using blockchain technology.
-- 📚 Expanding my expertise in cloud-native development.
 
 ### Featured Projects
 Take a look at some of my favorite personal projects:
