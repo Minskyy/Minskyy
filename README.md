@@ -2,7 +2,7 @@
 
 ## Welcome to my Lab
 
-I'm a **Computer Engineer** currently working as a **Full Stack Developer** at **Kuehne + Nagel** in Porto. Passionate about creating impactful solutions, I specialize in web development while exploring cutting-edge technologies.
+I'm a **Computer Engineer** currently working as a **Full Stack Developer** at **Kuehne + Nagel**. Passionate about creating impactful solutions, I specialize in web development while exploring cutting-edge technologies.
 
 ### About Me
 - 🔧 Problem solver and enthusiastic technologist.
