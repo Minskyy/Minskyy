@@ -26,7 +26,7 @@ Take a look at some of my favorite personal projects:
 - [**Pixel**](https://github.com/Minskyy/pixel-web): A decentralized application mixing finances, art, and NFT's 
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adrian0liveira/) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:example@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/adrian0liveira/) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:adrianooliv1994@gmail.com)
 
 Thanks for stopping by! Feel free to explore my projects and reach out if something catches your eye. 😄
 
