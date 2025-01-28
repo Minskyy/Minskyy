@@ -23,7 +23,7 @@ Working on a bot to interact with [**Polymarket**](https://polymarket.com/)
 ### Featured Projects
 Take a look at some of my favorite personal projects:
 - [**BSC Tools**](https://github.com/Minskyy/CoinSniper): Tools for detecting freshly-launched tokens with great potential.
-- - [**Pseudo-Random Cracker**](https://github.com/Minskyy/PseudoRandomCracker): A tool to exploit a lottery-type of smart contract
+- [**Pseudo-Random Cracker**](https://github.com/Minskyy/PseudoRandomCracker): A tool to exploit a lottery-type of smart contract
 - [**Pixel**](https://github.com/Minskyy/pixel-web): A decentralized application mixing finances, art, and NFT's 
 
 ### Connect with Me
