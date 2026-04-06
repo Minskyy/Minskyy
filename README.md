@@ -18,8 +18,8 @@ Here are some of the technologies I work with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?logo=blockchaindotcom&logoColor=white&style=flat)
 
 ### Current Focus
-Working on a bot to interact with [**Polymarket**](https://polymarket.com/)
-Working on a web based game [**Dodge the Potato**](https://pixel-io.art/)
+- Working on a bot to interact with [**Polymarket**](https://polymarket.com/)
+- Working on a web based game [**Dodge the Potato**](https://pixel-io.art/)
 
 ### Featured Projects
 Take a look at some of my favorite personal projects:
