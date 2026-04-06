@@ -23,6 +23,7 @@ Here are some of the technologies I work with:
 
 ### Featured Projects
 Take a look at some of my favorite personal projects:
+- [**Web Portfolio**](https://minskyy.github.io/folio/): My personal website.
 - [**BSC Tools**](https://github.com/Minskyy/CoinSniper): Tools for detecting freshly-launched tokens with great potential.
 - [**Pseudo-Random Cracker**](https://github.com/Minskyy/PseudoRandomCracker): A tool to exploit a lottery-type of smart contract
 - [**Pixel**](https://github.com/Minskyy/pixel-web): A decentralized application mixing finances, art, and NFT's 
